@@ -1,2 +1,2 @@
 # Android-Exam
-![alt tag](http://url/to/img.png)
+[Screenshot](https://github.com/Rohitkumarsingh369/Android-Exam/issues/1)
